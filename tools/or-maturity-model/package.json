@@ -1,0 +1,37 @@
+{
+  "name": "or-maturity-model",
+  "version": "1.0.0",
+  "description": "Sphera Operational Risk Maturity Model Tool",
+  "author": "Stephanie Junca",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.12",
+    "@fortawesome/free-solid-svg-icons": "^5.2.0",
+    "@fortawesome/vue-fontawesome": "^0.1.5",
+    "@nuxtjs/axios": "^5.4.1",
+    "acorn": "^6.0.5",
+    "acorn-dynamic-import": "^4.0.0",
+    "ajv": "^6.7.0",
+    "builder": "^4.0.0",
+    "canvg": "^1.5.3",
+    "firebase": "^5.3.0",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.11",
+    "nuxt": "^2.5.1",
+    "pdfmake": "^0.1.54",
+    "svg-to-canvas": "^1.0.1",
+    "vue-form-wizard": "^0.8.4",
+    "vue-moment": "^4.0.0",
+    "vuefire": "^1.4.5"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1",
+    "webpack": "^4.29.0"
+  }
+}
